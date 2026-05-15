@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liaopengdong.github.io/travel-planner-tools/sitemap.xml
